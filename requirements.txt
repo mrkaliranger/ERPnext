@@ -8,3 +8,4 @@ gocardless_pro
 woocommerce
 pandas
 plaid-python
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
